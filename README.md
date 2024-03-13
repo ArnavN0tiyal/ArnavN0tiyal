@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C++ and Java Developer
 -------------------------------
 
-Hi! My name is Arnav Notiyal. I like coding in java because I like its syntax as I am coming from c++ making it familiar and easy
+Hi! My name is Arnav Notiyal. I mostly like coding in java.
 
-* 🌍  I'm based in India
+* 🌍  I'm from India.
 * ✉️  You can contact me at [arnavnotiyal77@gmail.com](mailto:arnavnotiyal77@gmail.com)
 
 ### Skills
