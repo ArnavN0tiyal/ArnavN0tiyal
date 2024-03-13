@@ -8,8 +8,6 @@ Hi! My name is Arnav Notiyal. I like coding in java because I like its syntax as
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [arnavnotiyal77@gmail.com](mailto:arnavnotiyal77@gmail.com)
-* 🧠  I'm learning Java
-* ⚡  I like playing roblox and minecraft and I am bit good in figma.
 
 ### Skills
 
