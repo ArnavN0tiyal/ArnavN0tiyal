@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnav Notiyal
 =====================================================================================================================================
 
-Amateur C++, Java Developer and Beginner C# Developer
+Developer
 -------------------------------
 
 Hi! My name is Arnav Notiyal. I mostly now like coding in c# instead of java.
