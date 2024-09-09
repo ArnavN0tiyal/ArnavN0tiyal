@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 -------------------------------
 
-Hi! My name is Arnav Notiyal. I mostly now like coding in c# instead of java.
+Hi! My name is Arnav Notiyal. I am learning c++ now.
 
 * 🌍  I'm from India.
 * ✉️  You can contact me at [arnavnotiyal77@gmail.com](mailto:arnavnotiyal77@gmail.com)
@@ -13,7 +13,7 @@ Hi! My name is Arnav Notiyal. I mostly now like coding in c# instead of java.
 
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++ (Learning)"
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"
 </p>
 
 
